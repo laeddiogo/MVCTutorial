@@ -1,4 +1,4 @@
-﻿using System.Data.Entity;
+using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web.Mvc;
@@ -55,7 +55,7 @@ namespace MVCTutorial.Controllers
         }
 
         // GET: Movies/Edit/5
-        public ActionResult Edit(int? id)
+        public ActionResult Edit(int? id,string genre)
         {
             if (id == null)
             {
@@ -90,15 +90,9 @@ namespace MVCTutorial.Controllers
         // GET: Movies/Delete/5
         public ActionResult Delete(int? id)
         {
-            if (id == null)
-            {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
-            }
-            Movie movie = db.Movies.Find(id);
-            if (movie == null)
-            {
-                return HttpNotFound();
-            }
+            if (id == null) return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            var movie = db.Movies.Find(id);
+            if (movie == null) return HttpNotFound();
             return View(movie);
         }
 

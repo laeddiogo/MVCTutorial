@@ -1,8 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
-   
-   namespace MVCTutorial.Models
+using System.Data.Entity.ModelConfiguration.Configuration;
+
+namespace MVCTutorial.Models
    {
        public class Movie
        {
@@ -14,7 +15,10 @@ using System.Data.Entity;
            public DateTime ReleaseDate { get; set; }
            public string Genre { get; set; }
            public decimal Price { get; set; }
-       }
+           public string Description { get; set; }
+           public string Description2 { get; set; }
+           public string Description5 { get; set; }
+    }
    
        public class MovieDbContext : DbContext
        {

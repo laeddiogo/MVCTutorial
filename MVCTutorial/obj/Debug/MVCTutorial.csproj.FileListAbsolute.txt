@@ -79,4 +79,16 @@ C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFramework.dll
 C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.dll
 C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFramework.xml
 C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.xml
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\System.Globalization.Extensions.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFrameworkViewMigrations.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\EntityFrameworkViewMigrations.PowerShellCommands.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\envdte.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\envdte80.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\stdole.dll
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\envdte.xml
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\bin\envdte80.xml
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Migrations.Descriptionadded.resources
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csproj.GenerateResource.Cache
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Migrations.Description2.resources
 C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csprojResolveAssemblyReference.cache
+C:\Users\luis.diogo\source\repos\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Migrations.movietableupdate.resources

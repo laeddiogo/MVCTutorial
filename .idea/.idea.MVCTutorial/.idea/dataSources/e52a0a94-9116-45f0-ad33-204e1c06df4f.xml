@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="aspnet-MvcMovie@localhost">
+  <database-model serializer="dbm" dbms="MSSQL" family-id="MSSQL" format-version="4.14">
+    <root id="1">
+      <ServerVersion>12.0.2000</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="BizTalkDTADb">
+      <ObjectId>7</ObjectId>
+    </database>
+    <database id="3" parent="1" name="BizTalkMgmtDb">
+      <ObjectId>6</ObjectId>
+    </database>
+    <database id="4" parent="1" name="BizTalkMsgBoxDb">
+      <ObjectId>8</ObjectId>
+    </database>
+    <database id="5" parent="1" name="BizTalkRuleEngineDb">
+      <ObjectId>9</ObjectId>
+    </database>
+    <database id="6" parent="1" name="MvcMovie">
+      <ObjectId>12</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="7" parent="1" name="SSODB">
+      <ObjectId>5</ObjectId>
+    </database>
+    <database id="8" parent="1" name="TEST">
+      <ObjectId>10</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="9" parent="1" name="UmbracoTEST">
+      <ObjectId>11</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="10" parent="1" name="aspnet-MvcMovie">
+      <ObjectId>13</ObjectId>
+      <Current>1</Current>
+      <Visible>1</Visible>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="11" parent="1" name="master">
+      <ObjectId>1</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="12" parent="1" name="model">
+      <ObjectId>3</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="13" parent="1" name="msdb">
+      <ObjectId>4</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <database id="14" parent="1" name="tempdb">
+      <ObjectId>2</ObjectId>
+      <Collation>Latin1_General_CI_AS</Collation>
+    </database>
+    <schema id="15" parent="10" name="INFORMATION_SCHEMA">
+      <ObjectId>3</ObjectId>
+    </schema>
+    <schema id="16" parent="10" name="db_accessadmin">
+      <ObjectId>16385</ObjectId>
+    </schema>
+    <schema id="17" parent="10" name="db_backupoperator">
+      <ObjectId>16389</ObjectId>
+    </schema>
+    <schema id="18" parent="10" name="db_datareader">
+      <ObjectId>16390</ObjectId>
+    </schema>
+    <schema id="19" parent="10" name="db_datawriter">
+      <ObjectId>16391</ObjectId>
+    </schema>
+    <schema id="20" parent="10" name="db_ddladmin">
+      <ObjectId>16387</ObjectId>
+    </schema>
+    <schema id="21" parent="10" name="db_denydatareader">
+      <ObjectId>16392</ObjectId>
+    </schema>
+    <schema id="22" parent="10" name="db_denydatawriter">
+      <ObjectId>16393</ObjectId>
+    </schema>
+    <schema id="23" parent="10" name="db_owner">
+      <ObjectId>16384</ObjectId>
+    </schema>
+    <schema id="24" parent="10" name="db_securityadmin">
+      <ObjectId>16386</ObjectId>
+    </schema>
+    <schema id="25" parent="10" name="dbo">
+      <ObjectId>1</ObjectId>
+      <IntrospectionTimestamp>2019-01-28.15:16:24.823</IntrospectionTimestamp>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="26" parent="10" name="guest">
+      <ObjectId>2</ObjectId>
+    </schema>
+    <schema id="27" parent="10" name="sys">
+      <ObjectId>4</ObjectId>
+    </schema>
+    <table id="28" parent="25" name="Movies">
+      <ObjectId>1205579333</ObjectId>
+      <CreatedTimestamp>2019-01-28.14:12:37.643</CreatedTimestamp>
+      <ModifiedTimestamp>2019-01-28.15:16:12.250</ModifiedTimestamp>
+    </table>
+    <table id="29" parent="25" name="__MigrationHistory">
+      <ObjectId>277576027</ObjectId>
+      <CreatedTimestamp>2019-01-23.11:43:42.640</CreatedTimestamp>
+      <ModifiedTimestamp>2019-01-23.11:43:42.640</ModifiedTimestamp>
+    </table>
+    <column id="30" parent="28" name="Id">
+      <Position>1</Position>
+      <SequenceIdentity>1</SequenceIdentity>
+      <DataType>int|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="31" parent="28" name="Title">
+      <Position>2</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="32" parent="28" name="ReleaseDate">
+      <Position>3</Position>
+      <DataType>datetime|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="33" parent="28" name="Genre">
+      <Position>4</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="34" parent="28" name="Price">
+      <Position>5</Position>
+      <DataType>decimal(18,2)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="35" parent="28" name="Description">
+      <Position>6</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="36" parent="28" name="Description2">
+      <Position>7</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="37" parent="28" name="Description3">
+      <Position>8</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="38" parent="28" name="Desc4">
+      <Position>9</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <column id="39" parent="28" name="Description5">
+      <Position>10</Position>
+      <DataType>nvarchar(max)|0s</DataType>
+    </column>
+    <index id="40" parent="28" name="PK_dbo.Movies">
+      <Position>1</Position>
+      <ColNames>Id</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <key id="41" parent="28" name="PK_dbo.Movies">
+      <ObjectId>1221579390</ObjectId>
+      <CreatedTimestamp>2019-01-28.14:12:37.650</CreatedTimestamp>
+      <ModifiedTimestamp>2019-01-28.14:12:37.650</ModifiedTimestamp>
+      <ColNames>Id</ColNames>
+      <UnderlyingIndexName>PK_dbo.Movies</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="42" parent="29" name="MigrationId">
+      <Position>1</Position>
+      <DataType>nvarchar(150 char)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="43" parent="29" name="ContextKey">
+      <Position>2</Position>
+      <DataType>nvarchar(300 char)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="44" parent="29" name="Model">
+      <Position>3</Position>
+      <DataType>varbinary(max)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="45" parent="29" name="ProductVersion">
+      <Position>4</Position>
+      <DataType>nvarchar(32 char)|0s</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="46" parent="29" name="PK_dbo.__MigrationHistory">
+      <Position>1</Position>
+      <ColNames>MigrationId
+ContextKey</ColNames>
+      <Clustering>1</Clustering>
+      <Unique>1</Unique>
+    </index>
+    <key id="47" parent="29" name="PK_dbo.__MigrationHistory">
+      <ObjectId>293576084</ObjectId>
+      <CreatedTimestamp>2019-01-23.11:43:42.643</CreatedTimestamp>
+      <ModifiedTimestamp>2019-01-23.11:43:42.643</ModifiedTimestamp>
+      <ColNames>MigrationId
+ContextKey</ColNames>
+      <UnderlyingIndexName>PK_dbo.__MigrationHistory</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

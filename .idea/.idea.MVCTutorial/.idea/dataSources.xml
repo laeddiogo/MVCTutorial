@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="aspnet-MvcMovie@localhost" uuid="e52a0a94-9116-45f0-ad33-204e1c06df4f">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://localhost\SQLEXPRESS2014:1433;Integrated=SSPI;ssl=request;database=aspnet-MvcMovie</jdbc-url>
+      <driver-properties>
+        <property name="applicationName" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

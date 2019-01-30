@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Selection" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5c28a3e-070b-4537-87b2-1fcbb196fd9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/MVCTutorial/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCTutorial/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MVCTutorial/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/MVCTutorial.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/MVCTutorial.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/Models/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/Models/Movie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/bin/MVCTutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/bin/MVCTutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/bin/MVCTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/bin/MVCTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/obj/Debug/MVCTutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/obj/Debug/MVCTutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/obj/Debug/MVCTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/obj/Debug/MVCTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCTutorial/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCTutorial/packages.config" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aspnet-MvcMovie@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aspnet-MvcMovie@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="aspnet-MvcMovie: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aspnet-MvcMovie@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="aspnet-MvcMovie: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="aspnet-MvcMovie@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="aspnet-MvcMovie: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Movies: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MVCTutorial" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+              <folding>
+                <marker date="1548761148768" expanded="false" signature="6:158" ph="..." />
+                <marker date="1548761148768" expanded="true" signature="193:4260" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="242:4258" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="403:1017" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1106:1203" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1282:1608" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1320:1424" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1499:1566" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1676:1723" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="1733:1943" ph="/* POST: Movies/Create ... */" />
+                <marker date="1548761148768" expanded="true" signature="2098:2337" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="2144:2294" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="2423:2751" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="2461:2565" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="2642:2709" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="2761:2971" ph="/* POST: Movies/Edit/5 ... */" />
+                <marker date="1548761148768" expanded="true" signature="3136:3399" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="3182:3356" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="3476:3714" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="3876:4053" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="4110:4252" ph="{...}" />
+                <marker date="1548761148768" expanded="true" signature="4147:4205" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MVCTutorial/Models/Movie.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <marker date="1548774019360" expanded="false" signature="6:143" ph="..." />
+                <marker date="1548774019360" expanded="true" signature="173:905" ph="{...}" />
+                <marker date="1548774019360" expanded="true" signature="204:779" ph="{...}" />
+                <marker date="1548774019360" expanded="true" signature="830:900" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCTutorial/Migrations/Configuration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <marker date="1548762713337" expanded="false" signature="7:122" ph="..." />
+                <marker date="1548762713337" expanded="true" signature="156:1535" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="261:1532" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="298:365" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="445:1526" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="552:767" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="812:1011" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="1056:1256" ph="{...}" />
+                <marker date="1548762713337" expanded="true" signature="1301:1497" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCTutorial/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <marker date="1548424599679" expanded="true" signature="56:492" ph="{...}" />
+                <marker date="1548424599679" expanded="true" signature="103:490" ph="{...}" />
+                <marker date="1548424599679" expanded="true" signature="145:192" ph="{...}" />
+                <marker date="1548424599679" expanded="true" signature="229:345" ph="{...}" />
+                <marker date="1548424599679" expanded="true" signature="384:484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding>
+                <marker date="1548762164616" expanded="true" signature="46:125" ph="@..." />
+                <marker date="1548762164616" expanded="true" signature="143:455" ph="&lt;p.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="196:449" ph="@..." />
+                <marker date="1548762164616" expanded="true" signature="254:449" ph="{...}" />
+                <marker date="1548762164616" expanded="true" signature="269:443" ph="&lt;p.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="456:1479" ph="&lt;table.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="482:848" ph="&lt;tr.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="495:568" ph="&lt;th.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="577:656" ph="&lt;th.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="665:738" ph="&lt;th.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="747:820" ph="&lt;th.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="850:1467" ph="@..." />
+                <marker date="1548762164616" expanded="true" signature="879:1467" ph="{...}" />
+                <marker date="1548762164616" expanded="true" signature="885:1465" ph="&lt;tr.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="898:970" ph="&lt;td.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="979:1057" ph="&lt;td.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="1066:1138" ph="&lt;td.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="1147:1219" ph="&lt;td.../&gt;" />
+                <marker date="1548762164616" expanded="true" signature="1228:1455" ph="&lt;td.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>post</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281413275_Description2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Delete.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281515365_movie table update.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Migrations/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Global.asax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Controllers/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Models/Movie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8215E6E2-9F9C-4839-A7D6-3290EC2946B3/a8/b2c5967c/Root.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Details.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281408265_Description added.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Student/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Student/Details.cshtml" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Controllers/StudentController.cs" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Student/Create.cshtml" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Student/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Global.asax.cs" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Home/Index.cshtml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Migrations/Configuration.cs" />
+        <option value="$PROJECT_DIR$/MVCTutorial/Models/Movie.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="193" />
+    <option name="y" value="191" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCTutorial" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCTutorial" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCTutorial" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MVCTutorial" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MVCTutorial" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files (x86)/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:MVCTutorial /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/IIS Express" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MVCTutorial/MVCTutorial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser url="http://localhost:54488/" name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5c28a3e-070b-4537-87b2-1fcbb196fd9d" name="Default Changelist" comment="" />
+      <created>1548265995879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548265995879</updated>
+      <workItem from="1548265999480" duration="656000" />
+      <workItem from="1548423962396" duration="3790000" />
+      <workItem from="1548428077242" duration="4955000" />
+      <workItem from="1548668473911" duration="3111000" />
+      <workItem from="1548671677819" duration="676000" />
+      <workItem from="1548672425378" duration="5431000" />
+      <workItem from="1548684191880" duration="1661000" />
+      <workItem from="1548687310060" duration="1944000" />
+      <workItem from="1548758399240" duration="5773000" />
+      <workItem from="1548773976375" duration="661000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1548428846465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548428846466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1548436041780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548436041780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit individual file">
+      <created>1548436192118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548436192118</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit individual file">
+      <created>1548436330354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548436330354</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test 2">
+      <created>1548438232826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548438232826</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test 4">
+      <created>1548438403987</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548438403987</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit dia 29">
+      <created>1548759548785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548759548785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28658000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49361023" visible="true" weight="0.1705757" />
+      <window_info id="Structure" order="1" sideWeight="0.5063898" side_tool="true" weight="0.1641791" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50479233" side_tool="true" weight="0.16257995" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32976446" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4968017" weight="0.3993576" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.32976446" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49946696" weight="0.32976446" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4989339" weight="0.32976446" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" sideWeight="0.49946696" weight="0.32976446" />
+      <window_info anchor="bottom" id="REST Client" order="11" sideWeight="0.49946696" weight="0.32976446" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32976446" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5021322" side_tool="true" weight="0.3993576" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.31716418" weight="0.32976446" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" sideWeight="0.4989339" weight="0.32976446" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="bottom" id="Database Console" order="17" sideWeight="0.49946696" weight="0.32976446" />
+      <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Entity Framework" order="19" sideWeight="0.6828358" side_tool="true" visible="true" weight="0.32976446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="commit individual file" />
+    <MESSAGE value="test 2" />
+    <MESSAGE value="test 4" />
+    <MESSAGE value="commit dia 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit dia 29" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" initialLine="29">
+            <startOffsets>
+              <option value="1130" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1192" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs" initialLine="19">
+            <startOffsets>
+              <option value="474" />
+            </startOffsets>
+            <endOffsets>
+              <option value="572" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>2</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>movie</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <marker date="1548238004348" expanded="true" signature="48:127" ph="@..." />
+            <marker date="1548238004348" expanded="true" signature="145:198" ph="&lt;p.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="199:911" ph="&lt;table.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="225:425" ph="&lt;tr.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="238:317" ph="&lt;th.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="326:397" ph="&lt;th.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="427:901" ph="@..." />
+            <marker date="1548238004348" expanded="true" signature="456:901" ph="{...}" />
+            <marker date="1548238004348" expanded="true" signature="462:899" ph="&lt;tr.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="475:553" ph="&lt;td.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="562:632" ph="&lt;td.../&gt;" />
+            <marker date="1548238004348" expanded="true" signature="641:889" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Controllers/StudentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1548424599829" expanded="false" signature="0:21" ph="..." />
+            <marker date="1548424599829" expanded="true" signature="106:560" ph="{...}" />
+            <marker date="1548424599829" expanded="true" signature="172:219" ph="{...}" />
+            <marker date="1548424599829" expanded="true" signature="254:301" ph="{...}" />
+            <marker date="1548424599829" expanded="true" signature="338:385" ph="{...}" />
+            <marker date="1548424599829" expanded="true" signature="423:470" ph="{...}" />
+            <marker date="1548424599829" expanded="true" signature="507:554" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Global.asax.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1548424664410" expanded="true" signature="6:78" ph="..." />
+            <marker date="1548424664410" expanded="true" signature="101:483" ph="{...}" />
+            <marker date="1548424664410" expanded="true" signature="164:481" ph="{...}" />
+            <marker date="1548424664410" expanded="true" signature="213:475" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Models/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <marker date="1548424599719" expanded="true" signature="55:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <marker date="1548266352637" expanded="true" signature="16:73" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1548424326359" expanded="true" signature="16:73" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <marker date="1548266370834" expanded="true" signature="25:64" ph="&lt;head.../&gt;" />
+            <marker date="1548266370834" expanded="true" signature="65:99" ph="&lt;body.../&gt;" />
+            <marker date="1548266370834" expanded="true" signature="72:91" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Student/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <marker date="1548266371014" expanded="true" signature="26:65" ph="&lt;head.../&gt;" />
+            <marker date="1548266371014" expanded="true" signature="66:100" ph="&lt;body.../&gt;" />
+            <marker date="1548266371014" expanded="true" signature="73:92" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <marker date="1548424733503" expanded="true" signature="33:114" ph="@..." />
+            <marker date="1548424733503" expanded="true" signature="134:877" ph="&lt;div.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="174:870" ph="&lt;dl.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="209:282" ph="&lt;dt.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="292:361" ph="&lt;dd.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="371:450" ph="&lt;dt.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="460:535" ph="&lt;dd.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="545:618" ph="&lt;dt.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="628:697" ph="&lt;dd.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="707:780" ph="&lt;dt.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="790:859" ph="&lt;dd.../&gt;" />
+            <marker date="1548424733503" expanded="true" signature="878:994" ph="&lt;p.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5b9e5893-dc28-481a-b060-9cf40a6d05a7/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8215E6E2-9F9C-4839-A7D6-3290EC2946B3/a8/b2c5967c/Root.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/App.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e52a0a94-9116-45f0-ad33-204e1c06df4f/database/aspnet-MvcMovie/schema/dbo/table/Movies">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e52a0a94-9116-45f0-ad33-204e1c06df4f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <marker date="1548424733455" expanded="true" signature="33:111" ph="@..." />
+            <marker date="1548424733455" expanded="true" signature="129:2307" ph="@..." />
+            <marker date="1548424733455" expanded="true" signature="154:2307" ph="{...}" />
+            <marker date="1548424733455" expanded="true" signature="195:2305" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="389:804" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="534:789" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="814:1247" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="965:1232" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="1257:1672" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="1402:1657" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="1682:2097" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="1827:2082" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="2107:2294" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="2144:2279" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="2309:2367" ph="&lt;div.../&gt;" />
+            <marker date="1548424733455" expanded="true" signature="2369:2432" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281408265_Description added.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <marker date="1548684507104" expanded="true" signature="32:861" ph="{...}" />
+            <marker date="1548684507104" expanded="false" signature="45:93" ph="..." />
+            <marker date="1548684507104" expanded="true" signature="154:859" ph="{...}" />
+            <marker date="1548684507104" expanded="true" signature="194:751" ph="{...}" />
+            <marker date="1548684507104" expanded="true" signature="305:687" ph="{...}" />
+            <marker date="1548684507104" expanded="true" signature="796:853" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <marker date="1548439165530" expanded="true" signature="1:38" ph="@..." />
+            <marker date="1548439165530" expanded="true" signature="40:320" ph="&lt;div.../&gt;" />
+            <marker date="1548439165530" expanded="true" signature="344:786" ph="&lt;div.../&gt;" />
+            <marker date="1548439165530" expanded="true" signature="408:656" ph="&lt;p.../&gt;" />
+            <marker date="1548439165530" expanded="true" signature="791:1127" ph="&lt;div.../&gt;" />
+            <marker date="1548439165530" expanded="true" signature="1132:1449" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281413275_Description2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1548684808079" expanded="true" signature="32:407" ph="{...}" />
+            <marker date="1548684808079" expanded="false" signature="45:93" ph="..." />
+            <marker date="1548684808079" expanded="true" signature="150:405" ph="{...}" />
+            <marker date="1548684808079" expanded="true" signature="190:280" ph="{...}" />
+            <marker date="1548684808079" expanded="true" signature="325:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/e52a0a94-9116-45f0-ad33-204e1c06df4f.DATABASE:aspnet-MvcMovie">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>e52a0a94-9116-45f0-ad33-204e1c06df4f.DATABASE:aspnet-MvcMovie</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">e52a0a94-9116-45f0-ad33-204e1c06df4f.TABLE:aspnet-MvcMovie.dbo.Movies</node>
+            <node x="0.0" y="252.0">e52a0a94-9116-45f0-ad33-204e1c06df4f.TABLE:aspnet-MvcMovie.dbo.__MigrationHistory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="103.0" y="186.0" />
+          <SelectedNodes>
+            <node>e52a0a94-9116-45f0-ad33-204e1c06df4f.TABLE:aspnet-MvcMovie.dbo.Movies</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Movie.cs" />
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/TestModel.tt" />
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/TestModel.edmx" />
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Migrations/201901281515365_movie table update.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548688537713" expanded="true" signature="32:411" ph="{...}" />
+            <marker date="1548688537713" expanded="false" signature="45:93" ph="..." />
+            <marker date="1548688537713" expanded="true" signature="154:409" ph="{...}" />
+            <marker date="1548688537713" expanded="true" signature="194:284" ph="{...}" />
+            <marker date="1548688537713" expanded="true" signature="329:403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Controllers/MoviesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <marker date="1548761148768" expanded="false" signature="6:158" ph="..." />
+            <marker date="1548761148768" expanded="true" signature="193:4260" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="242:4258" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="403:1017" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1106:1203" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1282:1608" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1320:1424" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1499:1566" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1676:1723" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="1733:1943" ph="/* POST: Movies/Create ... */" />
+            <marker date="1548761148768" expanded="true" signature="2098:2337" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="2144:2294" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="2423:2751" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="2461:2565" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="2642:2709" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="2761:2971" ph="/* POST: Movies/Edit/5 ... */" />
+            <marker date="1548761148768" expanded="true" signature="3136:3399" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="3182:3356" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="3476:3714" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="3876:4053" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="4110:4252" ph="{...}" />
+            <marker date="1548761148768" expanded="true" signature="4147:4205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Migrations/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <marker date="1548762713337" expanded="false" signature="7:122" ph="..." />
+            <marker date="1548762713337" expanded="true" signature="156:1535" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="261:1532" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="298:365" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="445:1526" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="552:767" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="812:1011" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="1056:1256" ph="{...}" />
+            <marker date="1548762713337" expanded="true" signature="1301:1497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Views/Movies/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <marker date="1548762164616" expanded="true" signature="46:125" ph="@..." />
+            <marker date="1548762164616" expanded="true" signature="143:455" ph="&lt;p.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="196:449" ph="@..." />
+            <marker date="1548762164616" expanded="true" signature="254:449" ph="{...}" />
+            <marker date="1548762164616" expanded="true" signature="269:443" ph="&lt;p.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="456:1479" ph="&lt;table.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="482:848" ph="&lt;tr.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="495:568" ph="&lt;th.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="577:656" ph="&lt;th.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="665:738" ph="&lt;th.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="747:820" ph="&lt;th.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="850:1467" ph="@..." />
+            <marker date="1548762164616" expanded="true" signature="879:1467" ph="{...}" />
+            <marker date="1548762164616" expanded="true" signature="885:1465" ph="&lt;tr.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="898:970" ph="&lt;td.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="979:1057" ph="&lt;td.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="1066:1138" ph="&lt;td.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="1147:1219" ph="&lt;td.../&gt;" />
+            <marker date="1548762164616" expanded="true" signature="1228:1455" ph="&lt;td.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1548424599679" expanded="true" signature="56:492" ph="{...}" />
+            <marker date="1548424599679" expanded="true" signature="103:490" ph="{...}" />
+            <marker date="1548424599679" expanded="true" signature="145:192" ph="{...}" />
+            <marker date="1548424599679" expanded="true" signature="229:345" ph="{...}" />
+            <marker date="1548424599679" expanded="true" signature="384:484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVCTutorial/Models/Movie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <marker date="1548774019360" expanded="false" signature="6:143" ph="..." />
+            <marker date="1548774019360" expanded="true" signature="173:905" ph="{...}" />
+            <marker date="1548774019360" expanded="true" signature="204:779" ph="{...}" />
+            <marker date="1548774019360" expanded="true" signature="830:900" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
